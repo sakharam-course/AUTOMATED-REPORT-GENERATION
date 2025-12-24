@@ -86,4 +86,4 @@ This task demonstrates how Python can be used to automate report generation effi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Output
-[Excel_Report.pdf](https://github.com/user-attachments/files/24330207/Excel_Report.pdf)
+<img width="577" height="731" alt="Image" src="https://github.com/user-attachments/assets/6b564b62-182b-4b97-a557-242e988662fd" />
