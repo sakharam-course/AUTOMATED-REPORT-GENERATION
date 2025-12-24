@@ -20,7 +20,8 @@ This project has been developed as part of the CODTECH Python Programming Intern
 
 Automated report generation is widely used in real-world applications where data needs to be summarized and presented in a professional format. This task helps in understanding how Python can be used to transform raw data into structured and readable reports without manual effort.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Objective
 
 The main objectives of this task are:
@@ -42,17 +43,23 @@ Input Data Description
 
 The input data for this task is stored in a file format such as CSV. The file contains structured data that can be easily read and processed using Python. The data is loaded into a Pandas DataFrame, which allows efficient analysis and manipulation. This step ensures that the data is cleaned and ready for report generation.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Implementation Details
 
 The implementation begins by reading the input data file using Pandas. Once the data is loaded, basic analysis is performed such as calculating summary statistics or extracting key values required for the report.
 
 After processing the data, a PDF report is generated using a Python PDF library. The report includes headings, formatted text, and structured content to make it easy to read and professional in appearance. The layout is designed programmatically so that the report can be generated automatically every time the script is executed.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Output and Results
 
 The final output of this task is a formatted PDF report generated automatically from the input data file. The report clearly presents the analyzed data in a readable format. A sample report file is included in the repository to demonstrate the output of the script.
 
 This automated approach reduces manual effort and ensures consistency in report generation.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Deliverables
 
@@ -70,6 +77,12 @@ The input data file used for generating the report.
 README.md
 Documentation explaining the task, implementation, and output.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Conclusion
 
 This task demonstrates how Python can be used to automate report generation efficiently. It provides practical experience in file handling, data analysis, and document generation. The project successfully fulfills the requirements of Task 2 of the CODTECH Python Internship and highlights the use of Python for building automated reporting solutions.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Output
