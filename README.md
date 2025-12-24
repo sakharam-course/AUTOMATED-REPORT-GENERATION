@@ -19,6 +19,7 @@ Introduction
 This project has been developed as part of the CODTECH Python Programming Internship. Task 2 focuses on automating the process of report generation using Python. The objective of this task is to read data from a file, analyze the data, and generate a formatted PDF report using Python libraries such as ReportLab or FPDF.
 
 Automated report generation is widely used in real-world applications where data needs to be summarized and presented in a professional format. This task helps in understanding how Python can be used to transform raw data into structured and readable reports without manual effort.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objective
 
